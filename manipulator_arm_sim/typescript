@@ -1,0 +1,272 @@
+Script started on 2024-08-01 22:43:16+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="143" LINES="38"]
+]0;fablab@fablab: ~/junu_ws/src/manipulator_arm_sim[01;32mfablab@fablab[00m:[01;34m~/junu_ws/src/manipulator_arm_sim[00m$ cd sx[Kcript
+]0;fablab@fablab: ~/junu_ws/src/manipulator_arm_sim/script[01;32mfablab@fablab[00m:[01;34m~/junu_ws/src/manipulator_arm_sim/script[00m$ ls
+[0m[01;32mset_predefined_path_code.py[0m
+]0;fablab@fablab: ~/junu_ws/src/manipulator_arm_sim/script[01;32mfablab@fablab[00m:[01;34m~/junu_ws/src/manipulator_arm_sim/script[00m$ cd
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ cd junu_e[Kws
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ pw
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ rosrun manipu;a[K[Klator_arm_S[Ksim set_predefined_pth[K[Kath_s[Kcode.py
+[rospack] Error: package 'manipulator_arm_sim' not found
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ source ~/catkin_ws/devel/setup.bash
+bash: /home/fablab/catkin_ws/devel/setup.bash: No such file or directory
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ source ~/catkin_ws/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[1Ps/devel/setup.bash[C[1P/devel/setup.bashj/devel/setup.bashu/devel/setup.bashn/devel/setup.bashu/devel/setup.bash_/devel/setup.bashw/devel/setup.bashs/devel/setup.bash
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ source ~/junu_ws/devel/setup.bashcatkin_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py
+/usr/bin/env: ‘python’: No such file or directory
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ ju
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ ju
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ jurosrun manipulator_arm_sim set_predefined_path_code.py
+/usr/bin/env: ‘python’: No such file or directory
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ sudo apt-istall[K[K[K[K[Knstall python
+[sudo] password for fablab: 
+sudo: apt-install: command not found
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ apt_[K-get install python [K3
+E: Could not open lock file /var/lib/dpkg/lock-frontend - open (13: Permission denied)
+E: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), are you root?
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ cd[K[Kcd
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ cdapt-get install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-install python[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py
+/usr/bin/env: ‘python’: No such file or directory
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ sudo apt install pythn[Kon3
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+python3 is already the newest version (3.8.2-0ubuntu2).
+python3 set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ sudo apt install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py
+/usr/bin/env: ‘python’: No such file or directory
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ nor[Ketiv[Kc
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ noeticrosrun manipulator_arm_sim set_predefined_path_code.py
+[rospack] Error: package 'manipulator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pw
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pwrosrun manipulator_arm_sim set_predefined_path_code.py
+[rospack] Error: package 'manipulator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ !\[K[K~,.\[K[K[K./bs[Kashe[Krc
+bash: ~./bashrc: No such file or directory
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ ~./bashrcrosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Krosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[Krosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Psudo apt install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kapt-get install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-install python[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Krosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psource ~/junu_ws/devel/setup.bashcatkin_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Kcd junu_ws[Klscd scriptroslaunch manipulator_arm_sim full_robotic_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcd junu_ws[4Pnoeticroslaunch manipulator_arm_sim full_robotic_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Kenoeticroslaunch manipulator_arm_sim full_robotic_arm_sim.launch \[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Klscd gazebo_rosls[Kcd src[4Plscd junu_wsls[Kcd ..[K[2Plscd junu_wsroslaunch manipulator_arm_sim full_robotic_arm_sim.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pproxima_manipulator arm_urdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin build[1Pd junu_ws/roslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kroslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucode .d ..//..ls[Kcd manipulator_arm_sim/launch/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd ..//..ls[Kroslaunch arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd junu_ws/src/proxima_manipulator/launch/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Croslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcdroslaunch manipulator_arm_sim full_robotic_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccatkin build[Kroslaunch manipulator_arm_sim full_robotic_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knoeticcatkin build[2Pd junu_wssudo poweroff -icd[Ksudo rm -r pid_tuning[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Pcd junu_ws/src/ls[Kcd pid_tuning/ls[Kcd src/ls[Kcd pid_tuning/ls[Kcd pid_tuning/ls[Kcd src/pid_tuning/[6Patkin build[7Pd ..git clone https://github.com/We-R22/pid_tuning.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd junu_ws/src/[Kroslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin build[1Pd junu_ws/roslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucd ..//..//[5Pode .,[4Plscd proxima_manipulator/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd src/roslaunch manipulator_arm_sim full_robotic_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kpwnoeticroslaunch manipulator_arm_sim full_robotic_arm_sim.launch[2P_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kpwnoetic roslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd junu_ws[Kroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Knoeticroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccatkin build[Kd proxima_wsWsroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd proxima_ws[K[Kroslaunch manipulator_arm_sim full_robotic_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Poveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knunoeticcatkin build[2Pd junu_wsgedit ~/.bashrc[6P~/.bashrcpw[Knoetic[3Ppww~/.bashrccd[K~/.bashrc.rccd ~./bashrc/.bashrcatkin buildroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[K[4Ppwroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd proxima_ws[KWsroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[K[4Ppwroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccatkin build[K[6Pode .d proxima_wsWS[Kroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcd junu_ws[4Pnoeticroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Knoeticroslaunch moveit_proxima full_moveit_proxima.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[K[K..ode .roslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucd junu_ws[K[1Pnoetic[1Pclearroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin build[2Pd junu_wsroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucd junu_ws[4Pnoeticroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjunoeticcode .d junu_wsroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjunoeticcd junu_ws[4Pnoeticroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kju[1Pujucd junu_ws[4Pnoeticroslaunch manipulator_arm_sim full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucd junu_ws[4Pnoeticroscoree[2Pnoeticroscorelaunch manipulator_arm_sim demo_gazebo.launchfull_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucd junu_ws[4Pnoeticx[4Pcdleargedit full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcode .gedit full_robot_arm_sim.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Croslaunch manipulator_arm_sim demo_gazebo.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucd junu_ws[4Pnoeticaticroslaunch manipulator_arm_sim demo_gazebo.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin build[1@e[C[C[C[C[C[C[C[C[Cju[Knoeticcd junu_ws[Kleargedit new_controller.yaml[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kroslaunch moveit_setup_assistant setup_assistant.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd junu_ws/[Kroslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin build[1Pd junu_ws/roslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin build[1Pd junu_ws/roslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kjucatkin build[1Pd junu_ws/git clone https://github.com/ros-simulation/gazebo_ros_pkgs.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Katkin buildroslaunch proxima_manipulator gazebo.launch arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcd junu_ws[K[1Pnoeticsudo chmod +x spawn_model [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/home/fablab/junu_ws/devel/lib/gazebo_ros/spawn_model -x 0.00 -y 0.00 -z 0.00 -Y 0.00 -param robot_description -urdf -model proxima_manipulator -J joint_1 0.0 -J joint_2 0.0 -J joint_3 0.0 -J joint_4 0.0 -J joint_5 0.0 -J joint_6 0.0[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosparam get robot_description[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knoeticrosparam get robot_description[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pcd junu_ws[4Pnoetic[4Pcdrosparam get robot_description[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knoeticrosparam get robot_description[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Krosparam get robot_description[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Krosparam get robot_description[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd ..[Krosparam get robot_description[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccheck_urdf proxima_manipulator.urdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd urdf[Kls[Kcd proxima_manipulator[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd src[4Plscheck_urdf proxima_manipulator.urdf[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cat /home/fablab/.ros/log/31de9d26-4eba-11ef-b030-bd87c1d4ff4f/spawn_urdf-5.log[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ckin build[K[2Pd junu_wsatkin buildroslaunch proxima_manipulator arm_urdf.launch [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knoetic[4Pcd..sudo chmod +x spawn_model [4Pgzclientserver[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl[Kcd scripts/ls[Kcd scripts/ls[Kcd gazebo_ros/junu_ws/src/roslaunch proxima_manipulator arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcd junu_ws[4Pnoetic\roslaunch proxima_manipulator arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kroslaunch proxima_manipulator arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd junu_ws[K[4Pnoeticroslaunch proxima_manipulator arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[Kroslaunch proxima_manipulator arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcd junu_ws[4Pnoeticroslaunch proxima_manipulator arm_urdf.launchproxima_manipulator.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knoeticroslaunch proxima_manipulator proxima_manipulator.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Knoeticroslaunch proxima_manipulator proxima_manipulator.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcd junu_ws[4Pnoetic[4Pcd junu_wsa[5Plearroslaunch proxima_manipulator proxima_manipulator.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kroslaunch proxima_manipulator proxima_manipulator.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcatkin build[7Plearlears[Klclear[1Prroslaunch proxima_manipulator proxima_manipulator.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Kcatkin buildju[Kcd junu_wsatkin buildju[Kroscore[1Pnoeticroscore[2Pcleard[Kslearode .gedit arm_urdf.launch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[12Pcd launch[3Plaunchcd urdfls[Kcd proxima_manipulator[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd src[4Plscd ..gedit controller.yaml[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccode .[K[4Plscd configls[Kcd proxima_manipulator[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd src[4Plscd junu_ws[5Pleard[Klear[3Plscode .[1P.[3Plssudo rm -r controllers.yaml [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krm controller.yaml-r controller.yaml[1Pcontroller.yamldir controller.yaml\[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Krmdir controller.yaml\[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd configls[Kcd proxima_manipulator[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcode .d ..//..config/ls[Kcd proxima_manipulator/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd junu_ws/src/lear[Kgedit ~/.bashrcju[Ki[1Pcdgedit ~/.bashrccd[Kjui[Kgedit ~/.bashrc
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ gedit ~/.bashrc[6P~./bashrcrosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Krosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[Krosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Psudo apt install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[30Psudo apt install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd[Kapt-get install python3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo apt-install python[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cju[Krosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psource ~/junu_ws/devel/setup.bashcatkin_ws/devel/setup.bash[2Pjunu_ws/devel/setup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pgedit ~/.bashrc[6P~./bashrcrosrun manipulator_arm_sim set_predefined_path_code.py
+/usr/bin/env: ‘python’: No such file or directory
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ sudi[Ko apt install pythn[Kon
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+Note, selecting 'python-is-python2' instead of 'python'
+The following NEW packages will be installed:
+  python-is-python2
+0 upgraded, 1 newly installed, 0 to remove and 8 not upgraded.
+Need to get 2,496 B of archives.
+After this operation, 10.2 kB of additional disk space will be used.
+[33m0% [Working][0m[33m0% [Waiting for headers][0m                        Get:1 http://in.archive.ubuntu.com/ubuntu focal/universe amd64 python-is-python2 all 2.7.17-4 [2,496 B]
+[33m37% [1 python-is-python2 1,140 B/2,496 B 46%][0m[33m                                             100% [Working][0m              Fetched 2,496 B in 1s (3,456 B/s)
+
+7[0;37r8[1ASelecting previously unselected package python-is-python2.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 277023 files and directories currently installed.)
+Preparing to unpack .../python-is-python2_2.7.17-4_all.deb ...
+7[38;0f[42m[30mProgress: [  0%][49m[39m [.........................................................................................................................] 87[38;0f[42m[30mProgress: [ 20%][49m[39m [########################.................................................................................................] 8Unpacking python-is-python2 (2.7.17-4) ...
+7[38;0f[42m[30mProgress: [ 40%][49m[39m [################################################.........................................................................] 8Setting up python-is-python2 (2.7.17-4) ...
+7[38;0f[42m[30mProgress: [ 60%][49m[39m [########################################################################.................................................] 87[38;0f[42m[30mProgress: [ 80%][49m[39m [################################################################################################.........................] 8
+7[0;38r8[1A[J]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ sudo apt install python[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Psudo apt install python[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Knowtr[K[K[Ketic
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rio[K[Kos[K[K[Kju
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ ros [Krun manipualto[K[Katoe[Kr_arm_)[Ksim st[Ker [K[Kt [K_predefined_path_so[K[Kcode.py
+[rospack] Error: package 'manipualator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ sourcve[K[K[Kce ![Krosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csource [K~/junu_ws/devel_setup[K[K[K[K[K[K/setup,[K.bad[Ksh
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py
+[rospack] Error: package 'manipualator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Knoetic
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ noeticrosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[Krosrun manipualator_arm_sim set_predefined_path_code.py
+[rospack] Error: package 'manipualator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[Krosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py
+[rospack] Error: package 'manipualator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Krosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[22Psource ~/junu_ws/devel/setup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash
+\]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ \[Ksource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py\
+> ^C
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipualator_arm_sim set_predefined_path_code.py\
+> ^C
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipualator_arm_sim set_predefined_path_code.py\[K
+[rospack] Error: package 'manipualator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ clae[K[Ka[Kear
+[H[2J[3J]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ noetic
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pw
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ e[Krosrin[K[Kun manipulatoe[Kr_arm_sim ser=[K[Kt [K_predefime[K[Kned_path.code
+[rospack] Error: package 'manipulator_arm_sim' not found
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source[K[K[K[K[K[Ksorce[K[K[Kurce _[K~.[K/junu_ws/devel?de[K[K[K/e[Ksetup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path.code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpw[Krosrun manipulator_arm_sim set_predefined_path.code
+[rosrun] Couldn't find executable named set_predefined_path.code below /home/fablab/junu_ws/src/manipulator_arm_sim
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipulator_arm_sim set_predefined_path.code[K[K[K[K[K_code.py
+Traceback (most recent call last):
+  File "/home/fablab/junu_ws/src/manipulator_arm_sim/script/set_predefined_path_code.py", line 6, in <module>
+    import rospy
+  File "/opt/ros/noetic/lib/python3/dist-packages/rospy/__init__.py", line 47, in <module>
+    from std_msgs.msg import Header
+  File "/opt/ros/noetic/lib/python3/dist-packages/std_msgs/msg/__init__.py", line 1, in <module>
+    from ._Bool import *
+  File "/opt/ros/noetic/lib/python3/dist-packages/std_msgs/msg/_Bool.py", line 6, in <module>
+    import genpy
+  File "/opt/ros/noetic/lib/python3/dist-packages/genpy/__init__.py", line 34, in <module>
+    from . message import Message, SerializationError, DeserializationError, MessageException, struct_I
+  File "/opt/ros/noetic/lib/python3/dist-packages/genpy/message.py", line 48, in <module>
+    import yaml
+ImportError: No module named yaml
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ [K]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ [K]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ [K]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ [K]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip3 install yamlk
+[33mWARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f4130dc5df0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/yamlk/[0m
+[33mWARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f4130dc56d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/yamlk/[0m
+[33mWARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f4130dc5640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/yamlk/[0m
+^C[31mERROR: Operation cancelled by user[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip3 install yamlk[K
+[33mWARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8783b84df0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/yaml/[0m
+[33mWARNING: Retrying (Retry(total=3, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8783b846d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/yaml/[0m
+^X[33mWARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f8783b84640>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution')': /simple/yaml/[0m
+^C[31mERROR: Operation cancelled by user[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip3 install yaml
+[31mERROR: Could not find a version that satisfies the requirement yaml (from versions: none)[0m
+[31mERROR: No matching distribution found for yaml[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip3 install yaml[C[1P
+[31mERROR: Could not find a version that satisfies the requirement yaml (from versions: none)[0m
+[31mERROR: No matching distribution found for yaml[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip install yaml[1@3[C[C[C[C[C[C[C[C[C[C[C[C[Ckrosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ky
+Traceback (most recent call last):
+  File "/home/fablab/junu_ws/src/manipulator_arm_sim/script/set_predefined_path_code.py", line 6, in <module>
+    import yaml
+ImportError: No module named yaml
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ rosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpip install yaml[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@3[C[C[C[C[C[C[C[C[C[C[C[C[Ckrosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3P.code
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path.code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psource ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path.code[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Psource ~/junu_ws/devel/setup.bash
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ source ~/junu_ws/devel/setup.bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpip install yaml[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ky
+Traceback (most recent call last):
+  File "/home/fablab/junu_ws/src/manipulator_arm_sim/script/set_predefined_path_code.py", line 6, in <module>
+    import yaml
+ImportError: No module named yaml
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pio [K[Kp install yamla[K
+[31mERROR: Could not find a version that satisfies the requirement yaml (from versions: none)[0m
+[31mERROR: No matching distribution found for yaml[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip install yamlrosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[21Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpip install yaml[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@3[C[C[C[C[C[C[C[C[C[C[C[C[C
+[31mERROR: Could not find a version that satisfies the requirement yaml (from versions: none)[0m
+[31mERROR: No matching distribution found for yaml[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pip3 install yaml[1P[C[C[C[C[C[C[C[C[C[C[C[C[C
+[31mERROR: Could not find a version that satisfies the requirement yaml (from versions: none)[0m
+[31mERROR: No matching distribution found for yaml[0m
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ ca[K[Kcd jujn[K[Knu_s[Kws
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ catlk[K[Kkin buils[Kd
+[35m---------------------------------------------------------[0m[0m
+[36mProfile:[0m                     [33mdefault[0m[0m
+[36mExtending:[0m          [32m[cached][0m[0m [33m/opt/ros/noetic[0m[0m
+[36mWorkspace:[0m                   [33m/home/fablab/junu_ws[0m[0m
+[35m---------------------------------------------------------[0m[0m
+[36mBuild Space:[0m        [32m[exists][0m[0m [33m/home/fablab/junu_ws/build[0m[0m
+[36mDevel Space:[0m        [32m[exists][0m[0m [33m/home/fablab/junu_ws/devel[0m[0m
+[36mInstall Space:[0m      [34m[unused][0m[0m [33m/home/fablab/junu_ws/install[0m[0m
+[36mLog Space:[0m          [32m[exists][0m[0m [33m/home/fablab/junu_ws/logs[0m[0m
+[36mSource Space:[0m       [32m[exists][0m[0m [33m/home/fablab/junu_ws/src[0m[0m
+[36mDESTDIR:[0m            [34m[unused][0m[0m [33mNone[0m[0m
+[35m---------------------------------------------------------[0m[0m
+[36mDevel Space Layout:[0m          [33mlinked[0m[0m
+[36mInstall Space Layout:[0m        [33mNone[0m[0m
+[35m---------------------------------------------------------[0m[0m
+[36mAdditional CMake Args:[0m       [33mNone[0m[0m
+[36mAdditional Make Args:[0m        [33mNone[0m[0m
+[36mAdditional catkin Make Args:[0m [33mNone[0m[0m
+[36mInternal Make Job Server:[0m    [33mTrue[0m[0m
+[36mCache Job Environments:[0m      [33mFalse[0m[0m
+[35m---------------------------------------------------------[0m[0m
+[36mBuildlisted Packages:[0m        [33mNone[0m[0m
+[36mSkiplisted Packages:[0m         [33mNone[0m[0m
+[35m---------------------------------------------------------[0m[0m
+[1m[36mWorkspace configuration appears valid.[0m[0m
+[35m---------------------------------------------------------[0m[0m
+[build] Found 5 packages in 0.0 seconds.                              
+[build] Package table is up to date.                                  
+Starting  [1m[32m>>>[0m [1m[36mgazebo_ros                        [0m[0m                      
+Starting  [1m[32m>>>[0m [1m[36mproxima_manipulator               [0m[0m                      
+Starting  [1m[32m>>>[0m [1m[36mturtlebot3_msgs                   [0m[0m                      
+[[35mbuild[0m - [33m0.1[0m] [[1m[32m0[0m/[32m5[0m complete] [[1m[32m3[0m/[32m4[0m jobs] [[1m[30m2[0m queued][0m [[36mproxima_manipu[0m[0m... [[35mbuild[0m - [33m0.2[0m] [[1m[32m0[0m/[32m5[0m complete] [[1m[32m3[0m/[32m4[0m jobs] [[1m[30m1[0m queued][0m [[36mturtlebot3_msg[0m[0m... [1m[30mFinished[0m  [32m<<<[0m [36mproxima_manipulator               [0m [ [33m0.2 seconds[0m ][0m      
+Starting  [1m[32m>>>[0m [1m[36mmanipulator_arm_sim               [0m[0m                      
+[[35mbuild[0m - [33m0.3[0m] [[1m[32m1[0m/[32m5[0m complete] [[1m[32m3[0m/[32m4[0m jobs] [[1m[30m1[0m queued][0m [[36mgazebo_ros[0m:[34mloa[0m[0m... [[35mbuild[0m - [33m0.4[0m] [[1m[32m1[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mturtlebot3_msg[0m[0m... [[35mbuild[0m - [33m0.5[0m] [[1m[32m1[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mturtlebot3_msg[0m[0m... [[35mbuild[0m - [33m0.6[0m] [[1m[32m1[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mturtlebot3_msg[0m[0m... [1m[30mFinished[0m  [32m<<<[0m [36mmanipulator_arm_sim               [0m [ [33m0.3 seconds[0m ][0m      
+[[35mbuild[0m - [33m0.7[0m] [[1m[32m2[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mturtlebot3_msg[0m[0m... [1m[30mFinished[0m  [32m<<<[0m [36mturtlebot3_msgs                   [0m [ [33m0.7 seconds[0m ][0m      
+[[35mbuild[0m - [33m0.8[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [[35mbuild[0m - [33m0.9[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [[35mbuild[0m - [33m1.0[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [[35mbuild[0m - [33m1.1[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [[35mbuild[0m - [33m1.2[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [[35mbuild[0m - [33m1.3[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m4[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [[35mbuild[0m - [33m1.4[0m] [[1m[32m3[0m/[32m5[0m complete] [[1m[32m2[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros[0m:[34mmak[0m[0m... [1m[30mFinished[0m  [32m<<<[0m [36mgazebo_ros                        [0m [ [33m1.2 seconds[0m ][0m      
+Starting  [1m[32m>>>[0m [1m[36mgazebo_ros_control                [0m[0m                      
+[[35mbuild[0m - [33m1.5[0m] [[1m[32m4[0m/[32m5[0m complete] [[1m[32m1[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros_con[0m[0m... [[35mbuild[0m - [33m1.6[0m] [[1m[32m4[0m/[32m5[0m complete] [[1m[32m1[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros_con[0m[0m... [[35mbuild[0m - [33m1.7[0m] [[1m[32m4[0m/[32m5[0m complete] [[1m[32m2[0m/[32m4[0m jobs] [[1m[30m0[0m queued][0m [[36mgazebo_ros_con[0m[0m... [1m[30mFinished[0m  [32m<<<[0m [36mgazebo_ros_control                [0m [ [33m0.2 seconds[0m ][0m      
+[build] [3m[1m[32mSummary:[0m [3mAll [1m5[0m [3mpackages succeeded![0m[0m                            
+[build]   [3m[1m[30mIgnored:   None.[0m[0m                                            
+[build]   [3m[1m[30mWarnings:  None.[0m[0m                                            
+[build]   [3m[1m[30mAbandoned: None.[0m[0m                                            
+[build]   [3m[1m[30mFailed:    None.[0m[0m                                            
+[build] [3m[1mRuntime:[0m [3m1.8 seconds total.[0m[0m                                   
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ ju
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ jucatkin build[2Pd junu_wspip install yaml[1@3[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py
+Traceback (most recent call last):
+  File "/home/fablab/junu_ws/src/manipulator_arm_sim/script/set_predefined_path_code.py", line 6, in <module>
+    import yaml
+ImportError: No module named yaml
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ pip install yaml
+[31mERROR: Could not find a version that satisfies the requirement yaml (from versions: none)[0m
+[31mERROR: No matching distribution found for yaml[0m
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ pip install yamlrosrun manipulator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ ju[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccatkin build[2Pd junu_wspip install yaml[1@3[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [13Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [30Ppip install yaml
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@3[C[C[C[C[C[C[C[C[C[C[C[C[Ckrosrun manipulator_arm_sim set_predefined_path_code.py[3P.code[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [13Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path.code[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ pw[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[1Pclearrosrun manipualator_arm_sim set_predefined_path_code.py\[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [13Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [13Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [13Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoetic[Krosrun manipualator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [13Psource ~/junu_ws/devel/setup.bash
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipualator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ ju[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnoeticsudo apt install pythonrosrun manipulator_arm_sim set_predefined_path_code.py[A]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ [23Psudo apt install python
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[Kyaml
+[sudo] password for fablab: 
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+[1;31mE: [0mUnable to locate package yaml[0m
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ sudo apt install yaml[5Ppip[C[C[C[C[C[C[C[C[C[C[C[C[Crosrun manipulator_arm_sim set_predefined_path_code.py
+Traceback (most recent call last):
+  File "/home/fablab/junu_ws/src/manipulator_arm_sim/script/set_predefined_path_code.py", line 6, in <module>
+    import yaml
+ImportError: No module named yaml
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ si[Kudo apt install pu[Kyhr[K[Kthon3
+Reading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree       
+Reading state information... 0%Reading state information... 0%Reading state information... Done
+python3 is already the newest version (3.8.2-0ubuntu2).
+0 upgraded, 0 newly installed, 0 to remove and 8 not upgraded.
+]0;fablab@fablab: ~/junu_ws[01;32mfablab@fablab[00m:[01;34m~/junu_ws[00m$ p[Kcd
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ python -version
+Unknown option: -e
+usage: python [option] ... [-c cmd | -m mod | file | -] [arg] ...
+Try `python -h' for more information.
+]0;fablab@fablab: ~[01;32mfablab@fablab[00m:[01;34m~[00m$ pytrho[K[K[Khon -v
+# installing zipimport hook
+import zipimport # builtin
+# installed zipimport hook
+# /usr/lib/python2.7/site.pyc matches /usr/lib/python2.7/site.py
+import site # precompiled from /usr/lib/python2.7/site.pyc
+# /usr/lib/python2.7/os.pyc matches /usr/lib/python2.7/os.py
+import os # precompiled from /usr/lib/python2.7/os.pyc
+import errno # builtin
+import posix # builtin
+# /usr/lib/python2.7/posixpath.pyc matches /usr/lib/python2.7/posixpath.py
+import posixpath # precompiled from /usr/lib/python2.7/posixpath.pyc
+# /usr/lib/python2.7/stat.pyc matches /usr/lib/python2.7/stat.py
+import stat # precompiled from /usr/lib/python2.7/stat.pyc
+# /usr/lib/python2.7/genericpath.pyc matches /usr/lib/python2.7/genericpath.py
+import genericpath # precompiled from /usr/lib/python2.7/genericpath.pyc
+# /usr/lib/python2.7/warnings.pyc matches /usr/lib/python2.7/warnings.py
+import warnings # precompiled from /usr/lib/python2.7/warnings.pyc
+# /usr/lib/python2.7/linecache.pyc matches /usr/lib/python2.7/linecache.py
+import linecache # precompiled from /usr/lib/python2.7/linecache.pyc
+# /usr/lib/python2.7/types.pyc matches /usr/lib/python2.7/types.py
+import types # precompiled from /usr/lib/python2.7/types.pyc
+# /usr/lib/python2.7/UserDict.pyc matches /usr/lib/python2.7/UserDict.py
+import UserDict # precompiled from /usr/lib/python2.7/UserDict.pyc
+# /usr/lib/python2.7/_abcoll.pyc matches /usr/lib/python2.7/_abcoll.py
+import _abcoll # precompiled from /usr/lib/python2.7/_abcoll.pyc
+# /usr/lib/python2.7/abc.pyc matches /usr/lib/python2.7/abc.py
+import abc # precompiled from /usr/lib/python2.7/abc.pyc
+# /usr/lib/p
